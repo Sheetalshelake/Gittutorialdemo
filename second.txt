@@ -9,3 +9,6 @@ this is my new change
 Hi Hello
 
 this is my test change
+===============================================
+
+testing Unstaging & Unmodifying 
